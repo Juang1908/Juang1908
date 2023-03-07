@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Juang1908/Juang1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 "Hey there 👋
 Thanks for stopping by my GitHub profile! I'm a fullstack web developer with a passion for building innovative web applications. Here, you'll find some of my public repositories that showcase my skills and expertise in various technologies, including React, Node.js, and more.
