@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Juang1908/Juang1908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 "Hey there 👋
@@ -11,4 +10,4 @@ I'm always looking to learn and improve my skills. Feel free to explore my proje
 ⚡ Fun fact: ...I love traveling and exploring new cultures. My favorite travel destination so far has been Santa Barbara De Samana, Dominican Republic.
 
 Thanks for stopping by 😁"
--->
+
