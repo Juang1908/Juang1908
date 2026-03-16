@@ -25,7 +25,7 @@ I’m an IT Coordinator with hands-on experience supporting infrastructure, netw
 - 🛍️ [Power BI Holiday Forecast 2025](https://github.com/Juang1908/powerbi-holiday-forecast-2025)  
   Retail holiday spending visualization based on NRF, Adobe, and Mastercard insights.
 
-- ⚙️ [juang-portfolia (Next.js + Prisma)](https://github.com/Juang1908/juang-portfolio)  
+- ⚙️ [juang-portfolio (Next.js + Prisma)](https://github.com/Juang1908/juang-portfolio)  
   Web Portfolio.
 
 ---
