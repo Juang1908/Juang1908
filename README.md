@@ -1,16 +1,12 @@
 # 👋 Hi there, I'm Juan Galvan
 
-💻 **Full-Stack Web Developer & Data Analyst**  
+💻 **IT Professional | Infrastructure, Admin & Web Development**  
 Building innovative applications and transforming data into insights.
 
 ---
 
 ### 🚀 About Me  
-Hey there! I'm a full-stack developer with a growing passion for **data analytics, AI integration, and interactive dashboards**.  
-I love combining **frontend development** (React, Next.js, Tailwind) with **data visualization** (Power BI, DAX, SQL) to create tools that empower decision-making and improve user experiences.
-
-I'm always exploring new ways to automate workflows, visualize trends, and build systems that make an impact — from web apps to analytics dashboards.
-
+I’m an IT Coordinator with hands-on experience supporting infrastructure, networking, cloud platforms, and business technology operations. My work includes Microsoft 365 administration, Entra ID, Intune, Active Directory, hardware and software support, domain and DNS management, cybersecurity practices, and network deployment projects. I also bring experience in document management, operational reporting, budget tracking, and Power BI KPI visibility, helping teams stay organized, secure, and efficient. Alongside my IT background, I’m expanding my skills in frontend and backend development using technologies like Next.js, Tailwind CSS, Framer Motion, Node.js, Docker, and Azure. My goal is to bridge IT operations and development to build practical, modern solutions that improve both systems and user experience.
 ---
 
 ### 🧠 Tech Stack
